@@ -8,5 +8,3 @@ A continuación, se listan los ejercicios contenidos en cada carpeta del reposit
     - [Ejercicio 9.6.1](https://github.com/alanezz/PythonBookSolutions/blob/master/C09%20-%20Clases/9.6.1%20-%20Cola%20de%20supermercado.ipynb) - Cola de supermercado.
     - Ejercicio 9.6.2 - Banco de Catán.
 
-- C11 - Recursión
-    - Ejercicio 11.5.1 - Algebraco.
