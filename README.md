@@ -16,6 +16,9 @@ A continuación, se listan los ejercicios contenidos en cada carpeta del reposit
 - C05 - Funciones y módulos
     - [Ejercicio 5.3.1](https://github.com/alanezz/PythonBookSolutions/blob/master/C05%20-%20Funciones%20y%20M%C3%B3dulos/5.3.1%20-%20Calculadora.ipynb) - Calculadora
 
+- C06 - String
+    - [Ejercicio 6.4.1](https://github.com/alanezz/PythonBookSolutions/blob/master/C06%20-%20String/6.4.1%20-%20Latex%20a%20Markdown.ipynb) - Latex a Markdown
+
 - C09 - Clases
     - [Ejercicio 9.6.1](https://github.com/alanezz/PythonBookSolutions/blob/master/C09%20-%20Clases/9.6.1%20-%20Cola%20de%20supermercado.ipynb) - Cola de supermercado.
     - [Ejercicio 9.6.2](https://github.com/alanezz/PythonBookSolutions/blob/master/C09%20-%20Clases/9.6.2%20-%20Banco%20de%20Cat%C3%A1n.ipynb) - Banco de Catán.
