@@ -19,6 +19,9 @@ A continuación, se listan los ejercicios contenidos en cada carpeta del reposit
 - C06 - String
     - [Ejercicio 6.4.1](https://github.com/alanezz/PythonBookSolutions/blob/master/C06%20-%20String/6.4.1%20-%20Latex%20a%20Markdown.ipynb) - Latex a Markdown
 
+- C07 - Listas
+    - [Ejercicio 7.5.1](https://github.com/alanezz/PythonBookSolutions/blob/master/C07%20-%20Listas/7.5.1%20-%20Recetas%20con%20listas%20y%20funciones.ipynb) - Recetas con funciones y listas
+
 - C09 - Clases
     - [Ejercicio 9.6.1](https://github.com/alanezz/PythonBookSolutions/blob/master/C09%20-%20Clases/9.6.1%20-%20Cola%20de%20supermercado.ipynb) - Cola de supermercado.
     - [Ejercicio 9.6.2](https://github.com/alanezz/PythonBookSolutions/blob/master/C09%20-%20Clases/9.6.2%20-%20Banco%20de%20Cat%C3%A1n.ipynb) - Banco de Catán.
