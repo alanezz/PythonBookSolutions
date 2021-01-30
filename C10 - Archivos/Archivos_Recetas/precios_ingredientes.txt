@@ -1,0 +1,10 @@
+Huevo;50;Unidad
+Leche;800;Litro
+Leche de Almendras;1800;Litro
+Harina;700;Kg
+Harina Integral;1200;Kg
+Aceite;1700;Litro
+Azúcar;800;Kg
+Sal;300;Kg
+Polvos de hornear;7000;Kg
+Esencia de Vainilla;3400;Litro

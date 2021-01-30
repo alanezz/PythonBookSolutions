@@ -1,0 +1,5 @@
+Panqueques (12 porciones)
+Huevo;2;unidad
+Leche;350;cc
+Aceite;14;cc
+Harina;180;gr

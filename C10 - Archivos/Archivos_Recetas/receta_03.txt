@@ -1,0 +1,8 @@
+Bizcocho (15 porciones)
+Huevo;5;unidad
+Harina;180;gr
+Azúcar;280;gr
+Aceite;10;cc
+Polvos de hornear;10;gr
+Sal;3;gr
+Esencia de Vainilla;15;cc
