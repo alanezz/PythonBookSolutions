@@ -32,5 +32,8 @@ A continuación, se listan los ejercicios contenidos en cada carpeta del reposit
     - [Ejercicio 9.6.2](https://github.com/alanezz/PythonBookSolutions/blob/master/C09%20-%20Clases/9.6.2%20-%20Banco%20de%20Cat%C3%A1n.ipynb) - Banco de Catán.
     - [Ejercicio 9.6.3](https://github.com/alanezz/PythonBookSolutions/blob/master/C09%20-%20Clases/9.6.3%20-%20Recetas%20con%20Clases.ipynb) - Recetas con Clases.
 
+- C10 - Archivos
+    - [Ejercicio 10.5.1](https://github.com/alanezz/PythonBookSolutions/blob/master/C10%20-%20Archivos/10.5.1%20-%20Recetas%20con%20Archivos.ipynb) - Recetas con Archivos.
+
 - C11 - Recursión
     - [Ejercicio 11.5.1](https://github.com/alanezz/PythonBookSolutions/blob/master/C11%20-%20Recursi%C3%B3n/11.5.1%20-%20Algebraco.ipynb) - Algebraco.
