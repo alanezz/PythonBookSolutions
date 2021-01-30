@@ -22,6 +22,11 @@ A continuación, se listan los ejercicios contenidos en cada carpeta del reposit
 - C07 - Listas
     - [Ejercicio 7.5.1](https://github.com/alanezz/PythonBookSolutions/blob/master/C07%20-%20Listas/7.5.1%20-%20Recetas%20con%20listas%20y%20funciones.ipynb) - Recetas con funciones y listas
 
+- C08 - Diccionarios y Tuplas
+    - [Ejercicio 8.3.1](https://github.com/alanezz/PythonBookSolutions/blob/master/C08%20-%20Diccionarios%20y%20Tuplas/8.3.1%20-%20Notas%20de%20alumnos.ipynb) - Notas de alumnos
+    - [Ejercicio 8.3.2](https://github.com/alanezz/PythonBookSolutions/blob/master/C08%20-%20Diccionarios%20y%20Tuplas/8.3.2%20-%20Producto%20Punto.ipynb) - Producto Punto
+    - [Ejercicio 8.3.3](https://github.com/alanezz/PythonBookSolutions/blob/master/C08%20-%20Diccionarios%20y%20Tuplas/8.3.3%20-%20Recetas%20con%20diccionarios%20y%20tuplas.ipynb) - Recetas con diccionarios y tuplas
+
 - C09 - Clases
     - [Ejercicio 9.6.1](https://github.com/alanezz/PythonBookSolutions/blob/master/C09%20-%20Clases/9.6.1%20-%20Cola%20de%20supermercado.ipynb) - Cola de supermercado.
     - [Ejercicio 9.6.2](https://github.com/alanezz/PythonBookSolutions/blob/master/C09%20-%20Clases/9.6.2%20-%20Banco%20de%20Cat%C3%A1n.ipynb) - Banco de Catán.
