@@ -42,3 +42,4 @@ A continuación, se listan los ejercicios contenidos en cada carpeta del reposit
 
 - C11 - Recursión
     - [Ejercicio 11.5.1](https://github.com/alanezz/PythonBookSolutions/blob/master/C11%20-%20Recursi%C3%B3n/11.5.1%20-%20Algebraco.ipynb) - Algebraco.
+    - [Ejercicio 11.5.2]() - Búsqueda del tesoro
