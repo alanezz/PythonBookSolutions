@@ -38,6 +38,7 @@ A continuación, se listan los ejercicios contenidos en cada carpeta del reposit
 
 - C10 - Archivos
     - [Ejercicio 10.5.1](https://github.com/alanezz/PythonBookSolutions/blob/master/C10%20-%20Archivos/10.5.1%20-%20Recetas%20con%20Archivos.ipynb) - Recetas con Archivos.
+    - [Ejercicio 10.5.2](https://github.com/alanezz/PythonBookSolutions/blob/master/C10%20-%20Archivos/10.5.2%20-%20Cargar%20Mapa.ipynb) - Cargar Mapa.
 
 - C11 - Recursión
     - [Ejercicio 11.5.1](https://github.com/alanezz/PythonBookSolutions/blob/master/C11%20-%20Recursi%C3%B3n/11.5.1%20-%20Algebraco.ipynb) - Algebraco.
