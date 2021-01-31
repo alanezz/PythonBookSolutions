@@ -23,6 +23,8 @@ A continuación, se listan los ejercicios contenidos en cada carpeta del reposit
 
 - C07 - Listas
     - [Ejercicio 7.5.1](https://github.com/alanezz/PythonBookSolutions/blob/master/C07%20-%20Listas/7.5.1%20-%20Recetas%20con%20listas%20y%20funciones.ipynb) - Recetas con funciones y listas.
+    - [Ejercicio 7.5.2](https://github.com/alanezz/PythonBookSolutions/blob/master/C07%20-%20Listas/7.5.2%20-%20Ordenamiento%20de%20listas.ipynb) - Ordenamiento de listas.
+    - [Ejercicio 7.5.3](https://github.com/alanezz/PythonBookSolutions/blob/master/C07%20-%20Listas/7.5.3%20-%20Diagonal%20de%20matrices.ipynb) - Diagonal de matrices.
 
 - C08 - Diccionarios y Tuplas
     - [Ejercicio 8.3.1](https://github.com/alanezz/PythonBookSolutions/blob/master/C08%20-%20Diccionarios%20y%20Tuplas/8.3.1%20-%20Notas%20de%20alumnos.ipynb) - Notas de alumnos.
